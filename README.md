@@ -19,7 +19,7 @@ I recently shipped **FundChain**, a decentralized crowdfunding platform with mil
 
 I'm passionate about **crypto** and decentralized systems, not just as technology, but as a way to rethink how value and trust move. I follow the space closely and like understanding how protocols actually work under the hood.
 
-Big fan of **football** and **American football**. I keep up with both and enjoy the strategy behind the game. Outside of building, I'm driven by the idea of attaining real success, not just talking about it, but putting in the work.
+I'm a very big fan of **football** and **American football**. I keep up with both sport and enjoy the strategy behind the game. Outside of building, I'm driven by the idea of attaining real success, not just talking about it, but putting in the work.
 
 ---
 
